@@ -1,0 +1,11 @@
+{
+    "age-maximums": [
+        {"age-min": "13", "age-max": "19", "age-category": "a teenager"},
+        {"age-min": "20", "age-max": "34", "age-category": "a young adult"},
+        {"age-min": "35", "age-max": "45", "age-category": "in limbo"},
+        {"age-min": "46", "age-max": "54", "age-category": "in the great midlife"},
+        {"age-min": "55", "age-max": "64", "age-category": "waiting to retire"},
+        {"age-min": "65", "age-max": "79", "age-category": "enjoying life"},
+        {"age-min": "80", "age-max": "89", "age-category": "old"}
+    ]
+}
